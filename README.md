@@ -22,7 +22,7 @@
 ※ 各 README.md はテキストファイルです。パソコンではメモ帳などのテキストエディタで開けます（GitHub 上ではそのまま整形表示されます）。
  
 ## 動作確認範囲
-- 付録B：ChatGPT を前提としています。
+- 付録B：Claude、ChatGPT を前提としています。
 - 付録C：Windows + PowerShell を前提としています。
   本ツール v5.0.0 は公式インデックスを参照しません（INDEX=NONE 固定。入力は SOURCE と SINCE のみ）。
  
@@ -32,4 +32,3 @@
  
 ## ライセンス
 LICENSE.txt を参照してください。
-
